@@ -1,0 +1,41 @@
+Instrucciones: \n \n
+
+ Un rompecabezas o puzle (también denominado con el término inglés \n 
+ puzzle) es un juego de mesa cuyo objetivo es formar una figura \n 
+ combinando correctamente las partes de ésta, que se encuentran \n 
+ en distintos pedazos o piezas planas.  \n \n
+
+ Mover piezas: \n \n 
+ para movir una pieza del rompecabezas simplemente se deve dar click \n
+izquierdo sobre la pieza de se desea mover, luego se hace click  \n 
+izquiendo sobre la posicion final a la que se desea llevar la piza, \n 
+cuando se selecciona una pieza la pieza selecciona se bordea en  \n 
+amarillo. \n  \n 
+
+Boton IMAGEN:\n  \n 
+al presionar el boton imagen ubicado en la parte inferior derecha \n 
+de la pantalla aparecera una imagen miniatura del rompecabezas \n 
+en la parte superior del boton, si se hace click sobre esta  \n 
+imagen miniatura aparecera una imagen del rompecabezas del  \n 
+tama;o original del mismo, para salir de de la imagen grande \n 
+simplemente se hace click sobre la misma. \n  \n 
+MENU de Juego: \n  \n 
+el menu de juego esta ubicado en la barra superior dercha (Juego) \n 
+y consta de 4 opciones: \n  \n 
+1.-Nuevo juego: crea un nuevo juego eliminado el juego anterior \n 
+2.-ordenar: ordena el rompecabeza de manera  correcta automaticamente \n 
+3.-pista: la opcion pista se puede usar de dos formas. \n  \n 
+1.- pista selectiva: la pista selectiva consiste en seleccionar \n 
+una pieza del rompecabezas (ya sea que no encuentra o no ve donde  \n 
+deveria ir la pieza correctamente o simplemente quiera saber donde  \n 
+va uibcada una pieza ) una vez seleccionada la pieza (quedara en  \n 
+borde amarrillo) se va al menu de Juego y selecciona la opcion  \n 
+pista, en el  tablero se le marcara con un borde rojo la posicion \n 
+ a la que debe ser movida la pieza  selecciona(simplemente hace  \n 
+click en el cuadro bordeado de rojo) para que la pieza  este  \n 
+en su posicion correcta.  \n 
+2.-pista ordenada: si no se seleciona ninguna pieza y se utiliza  \n 
+la opcion pista, las pistas se iran dando ordenada, es decir de  \n 
+arriba hacia abajo. \n  \n 
+4.-salir: opc para salir del juego.  \n  \n
+   
